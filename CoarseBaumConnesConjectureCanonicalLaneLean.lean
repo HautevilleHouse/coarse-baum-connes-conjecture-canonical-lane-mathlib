@@ -1,0 +1,7 @@
+-- This module is the root of the CoarseBaumConnesConjectureCanonicalLaneLean Lean proof package.
+import CoarseBaumConnesConjectureCanonicalLaneLean.Basic
+import CoarseBaumConnesConjectureCanonicalLaneLean.SourcePackage
+import CoarseBaumConnesConjectureCanonicalLaneLean.SourceDependencies
+import CoarseBaumConnesConjectureCanonicalLaneLean.Formalization
+import CoarseBaumConnesConjectureCanonicalLaneLean.ReviewerBridge
+import CoarseBaumConnesConjectureCanonicalLaneLean.TheoremStatement
